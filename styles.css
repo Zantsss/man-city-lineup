@@ -1,0 +1,39 @@
+
+ h1 {
+    text-align: center;
+    @font-face {
+        font-family: ;
+        src: url('file:///C: /Home/Desktop/fonts/PLEBIS.otf'); /* Ubuntu */
+    }
+ }
+ 
+ h2 {
+    background-color: rgb(85, 91, 102);
+    text-align: center;
+    font-family: Cambria, Cochin, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(228, 228, 228);
+  }
+  
+.no-bullets {
+    list-style: none;
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightgray;
+}
+
+  p {
+    background-color: cadetblue;
+    text-align: center;
+    color: aliceblue;
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  body{
+    background-color: darkslategray;
+  }
